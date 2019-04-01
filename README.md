@@ -3,7 +3,7 @@ Portfolio of data science projects using R and Jupyter notebooks demonstrating t
 Below is the list of projects with a brief description for each.
 
 ## 1. Exploring the Kaggle Data Science Survey
-The link to the Jupyter notebook can be found [here](../master/)
+The link to the Jupyter notebook can be found [here](../master/Exploring the Kaggle Data Science Survey/notebook.ipynb)
 ## 2. A Visual History of Nobel Prize Winners
 
 
