@@ -8,6 +8,7 @@ The link to the Jupyter notebook can be found [here](../master/Exploring%20the%2
 The link to the Jupyter notebook can be found [here](../master/A%20Visual%20History%20of%20Nobel%20Prize%20Winners/notebook.ipynb)
 
 ## 3. Level difficulty in Candy Crush Saga
+The link to the Jupyter notebook can be found [here](../master/Level%20Difficulty%20in%20Candy%20Crush%20Saga/notebook.ipynb)
 ## 4. Dr. Semmelweis and the discovery of handwashing
 The link to the Jupyter notebook can be found [here](../master/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/notebook.ipynb)
 
