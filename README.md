@@ -9,8 +9,7 @@ The link to the Jupyter notebook can be found [here](../master/A%20Visual%20Hist
 
 ## 3. Level difficulty in Candy Crush Saga
 ## 4. Dr. Semmelweis and the discovery of handwashing
-
-
+The link to the Jupyter notebook can be found [here](../master/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/notebook.ipynb)
 
 
 
