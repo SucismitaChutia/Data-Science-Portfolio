@@ -5,8 +5,7 @@ Below is the list of projects with a brief description for each.
 ## 1. Exploring the Kaggle Data Science Survey
 The link to the Jupyter notebook can be found [here](../master/Exploring%20the%20Kaggle%20Data%20Science%20Survey/notebook.ipynb)
 ## 2. A Visual History of Nobel Prize Winners
-
-
+The link to the Jupyter notebook can be found [here](../master/A%20Visual%20History%20of%20Nobel%20Prize%20Winners/notebook.ipynb)
 
 ## 3. Level difficulty in Candy Crush Saga
 ## 4. Dr. Semmelweis and the discovery of handwashing
