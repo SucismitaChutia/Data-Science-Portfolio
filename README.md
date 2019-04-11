@@ -8,9 +8,15 @@ The link to the Jupyter notebook can be found [here](../master/Exploring%20the%2
 Analysis of data from the Superbowl Halftime shows, the American football extravaganza.
 The link to the Jupyter notebook can be found [here](../master/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game/notebook.ipynb)
 ## 3. Level difficulty in Candy Crush Saga
+Analysis of data collected from players  of the popular game Candy Crush Saga to estimate level difficulty.
+
 The link to the Jupyter notebook can be found [here](../master/Level%20Difficulty%20in%20Candy%20Crush%20Saga/notebook.ipynb)
 
 ## 4. A Visual History of Nobel Prize Winners
+The Nobel Prize is perhaps the worlds most well known scientific award. The Nobel Foundation has made a dataset available of all prize winners from the start of the prize, in 1901, to 2016. This project looks at the data and seeks to answer questions like
+1) Which sex and which country is the most commonly represented? 
+2) Average age at which one gets the Nobel Prize?
+
 The link to the Jupyter notebook can be found [here](../master/A%20Visual%20History%20of%20Nobel%20Prize%20Winners/notebook.ipynb)
 
 
