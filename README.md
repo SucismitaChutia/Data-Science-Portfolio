@@ -4,14 +4,18 @@ Below is the list of projects with a brief description for each.
 
 ## 1. Exploring the Kaggle Data Science Survey
 The link to the Jupyter notebook can be found [here](../master/Exploring%20the%20Kaggle%20Data%20Science%20Survey/notebook.ipynb)
-## 2. A Visual History of Nobel Prize Winners
-The link to the Jupyter notebook can be found [here](../master/A%20Visual%20History%20of%20Nobel%20Prize%20Winners/notebook.ipynb)
-
+## 2. TV, Halftime Shows and the Big Game
+Analysis of data from the Superbowl Halftime shows, the American football extravaganza.
+The link to the Jupyter notebook can be found [here](../master/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game/notebook.ipynb)
 ## 3. Level difficulty in Candy Crush Saga
 The link to the Jupyter notebook can be found [here](../master/Level%20Difficulty%20in%20Candy%20Crush%20Saga/notebook.ipynb)
-## 4. Dr. Semmelweis and the discovery of handwashing
-The link to the Jupyter notebook can be found [here](../master/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/notebook.ipynb)
 
+## 4. A Visual History of Nobel Prize Winners
+The link to the Jupyter notebook can be found [here](../master/A%20Visual%20History%20of%20Nobel%20Prize%20Winners/notebook.ipynb)
+
+
+## 5. Dr. Semmelweis and the discovery of handwashing
+The link to the Jupyter notebook can be found [here](../master/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/notebook.ipynb)
 
 
 ## Note
