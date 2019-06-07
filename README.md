@@ -29,6 +29,7 @@ This project analyses the data collected by Hungarian physician Dr Ignaz Semmelw
 
 The link to the Jupyter notebook can be found [here](../master/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/notebook.ipynb)
 
-
+## 6.  Where are the fishes
+The link to the Jupyter notebook can be found [here](../master/Where%20are%20the%20fishes/notebook.ipynb)
 ## Note
 If the Jupyter notebooks don't render correctly, then copy the URL into https://nbviewer.jupyter.org/
