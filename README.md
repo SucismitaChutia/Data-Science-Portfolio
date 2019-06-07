@@ -30,6 +30,8 @@ This project analyses the data collected by Hungarian physician Dr Ignaz Semmelw
 The link to the Jupyter notebook can be found [here](../master/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/notebook.ipynb)
 
 ## 6.  Where are the fishes
+Marine scientists use backscatter to understand the distribution of organisms in the ocean. This project analyses active acoustic data collected from a research vessel that crossed the shelf break in the Mid-Atlantic Bight and plots the mean volume backscatter associated with fish with swim-bladders in relation to the depth of the sea floor.
+
 The link to the Jupyter notebook can be found [here](../master/Where%20are%20the%20fishes/notebook.ipynb)
 ## Note
 If the Jupyter notebooks don't render correctly, then copy the URL into https://nbviewer.jupyter.org/
