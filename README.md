@@ -3,10 +3,13 @@ Portfolio of data science projects using R and Jupyter notebooks demonstrating t
 Below is the list of projects with a brief description for each.
 
 ## 1. Exploring the Kaggle Data Science Survey
+
 The link to the Jupyter notebook can be found [here](../master/Exploring%20the%20Kaggle%20Data%20Science%20Survey/notebook.ipynb)
 ## 2. TV, Halftime Shows and the Big Game
 Analysis of data from the Superbowl Halftime shows, the American football extravaganza.
+
 The link to the Jupyter notebook can be found [here](../master/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game/notebook.ipynb)
+
 ## 3. Level difficulty in Candy Crush Saga
 Analysis of data collected from players  of the popular game Candy Crush Saga to estimate level difficulty.
 
@@ -21,6 +24,8 @@ The link to the Jupyter notebook can be found [here](../master/A%20Visual%20Hist
 
 
 ## 5. Dr. Semmelweis and the discovery of handwashing
+This project analyses the data collected by Hungarian physician Dr Ignaz Semmelweis in the Vienna General Hospital in the 1840s to try and link childbed fever and handwashing habits (or lack thereof) among doctors delivering babies.
+
 The link to the Jupyter notebook can be found [here](../master/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/notebook.ipynb)
 
 
